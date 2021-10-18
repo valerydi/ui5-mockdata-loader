@@ -1,0 +1,19 @@
+{
+  "name": "ui5-mockdata-loader",
+  "version": "0.0.1",
+  "description": "The tool is for consuming an OData service and loading data for mock JSONs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerydi/ui5-mockdata-loader.git"
+  },
+  "author": "valerydi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valerydi/ui5-mockdata-loader/issues"
+  },
+  "homepage": "https://github.com/valerydi/ui5-mockdata-loader#readme"
+}
